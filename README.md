@@ -1,6 +1,6 @@
 # GraphepediaTask
 
->Dummy Template using CSS3 and HTML5
-## <p align=""> Live preview: <a href="https://gallant-curran-bf49a3.netlify.app/">Truck Tour</a></p><br>
+>Dummy Template using wordpress, CSS3 and HTML5
+## <p align=""> Live preview: <a href="http://tranziberia.com.185-2-66-130.cp4.graphediahosting.com/">Truck Tour</a></p><br>
 
 
